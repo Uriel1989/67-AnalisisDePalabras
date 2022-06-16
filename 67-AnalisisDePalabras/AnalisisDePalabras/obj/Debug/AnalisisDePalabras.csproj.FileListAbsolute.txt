@@ -1,0 +1,6 @@
+C:\Users\tauro\Desktop\AnalisisDePalabras\AnalisisDePalabras\bin\Debug\AnalisisDePalabras.exe
+C:\Users\tauro\Desktop\AnalisisDePalabras\AnalisisDePalabras\bin\Debug\AnalisisDePalabras.pdb
+C:\Users\tauro\Desktop\AnalisisDePalabras\AnalisisDePalabras\obj\Debug\AnalisisDePalabras.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\AnalisisDePalabras\AnalisisDePalabras\obj\Debug\AnalisisDePalabras.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\AnalisisDePalabras\AnalisisDePalabras\obj\Debug\AnalisisDePalabras.exe
+C:\Users\tauro\Desktop\AnalisisDePalabras\AnalisisDePalabras\obj\Debug\AnalisisDePalabras.pdb
